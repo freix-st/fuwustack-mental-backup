@@ -1,0 +1,7 @@
+- Extractive
+	- Extract key information from the text
+	- Makes sure no new info is generated
+	- Where precision is important (ex. finance, business)
+- Abstractive
+	- Generate new text that captures the main ideas
+	- Good for article summaries, content recommendations, etc.
