@@ -2,4 +2,5 @@
 
 - configs - Backup of my `.config` files
 - notebooks - Obsidian notebooks
-    - Forbidden Magic - Survival notes for work
+    - Mental Backup - Survival guide for work
+    - Forbidden Magic - Learning about ML and AI
