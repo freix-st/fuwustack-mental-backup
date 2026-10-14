@@ -1,4 +1,4 @@
-Login to GitHub so Claude can call it
+Login to GitHub so the client can call it
 Make sure GitHub enterprise CLI is installed (`gh` command)
 
 Using cmd:
