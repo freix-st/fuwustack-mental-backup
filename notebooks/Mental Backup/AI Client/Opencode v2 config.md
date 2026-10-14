@@ -3,6 +3,7 @@
 	- Deepseek v4 Flash - low, high, max
 	- GPT 5.6 Luna - low, medium, high, xhigh, max
 
+Example template:
 ```json
 {
 	"$schema": "https://opencode.ai/config.json",
