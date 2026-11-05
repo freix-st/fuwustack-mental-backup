@@ -109,3 +109,10 @@ base64(signature)
 ```ts
 base64(Header) + "." + base64(Payload) + "." + base64(Signature)
 ```
+
+---
+## GitHub name cleanup
+
+```sh
+git filter-repo --force --email-callback "return b'freisoric@outlook.com' if email == b'xgoliath@protonmail.com' else email" --name-callback "return b'freix-st' if name == b'doubleskeleton' else name"
+```
